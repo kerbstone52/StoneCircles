@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx>
+<!--Centre Waypoint 52.992517013 -6.6173097126-->
+<wpt lat="52.992517013" lon="-6.6173097126">
+<name>randomcircle104 lat/lon 52.992517013,-6.6173097126</name>
+</wpt>
+<!--Waypoints 1-->
+<wpt lat="52.9916666666667" lon="-6.6175">
+<name>CrossQuarterSun2 Bottom 0 Bearing 178.883456143044 Elevation 19.8207397879658 lat/lon 52.9916666666667,-6.6175</name>
+</wpt>
+<!--Waypoints 2-->
+<wpt lat="52.9916666666667" lon="-6.61694444444444">
+<name>CrossQuarterSun2 Centre 1 Bearing 171.600862573638 Elevation 19.7296492667073 lat/lon 52.9916666666667,-6.61694444444444</name>
+</wpt>
+<!--Waypoints 3-->
+<wpt lat="52.9916666666667" lon="-6.61694444444444">
+<name>CrossQuarterSun2 Bottom 2 Bearing 171.282371526659 Elevation 19.4342600728819 lat/lon 52.9916666666667,-6.61694444444444</name>
+</wpt>
+<!--Waypoints 4-->
+<wpt lat="52.9919444444444" lon="-6.61694444444444">
+<name>CrossQuarterSun2 Bottom 3 Bearing 165.626874632049 Elevation 18.7563235995895 lat/lon 52.9919444444444,-6.61694444444444</name>
+</wpt>
+<!--Waypoints 5-->
+<wpt lat="52.9919444444444" lon="-6.61694444444444">
+<name>CrossQuarterSun2 Centre 4 Bearing 165.125160807007 Elevation 18.9494564484832 lat/lon 52.9919444444444,-6.61694444444444</name>
+</wpt>
+<!--Waypoints 6-->
+<wpt lat="52.9919444444444" lon="-6.61694444444444">
+<name>CrossQuarterSun2 Top 5 Bearing 164.637825608448 Elevation 19.1426946608157 lat/lon 52.9919444444444,-6.61694444444444</name>
+</wpt>
+<!--Waypoints 7-->
+<wpt lat="52.9916666666667" lon="-6.61666666666667">
+<name>CrossQuarterSun2 Top 6 Bearing 157.302419299879 Elevation 17.6893848687469 lat/lon 52.9916666666667,-6.61666666666667</name>
+</wpt>
+<!--Waypoints 8-->
+<wpt lat="52.9916666666667" lon="-6.61666666666667">
+<name>CrossQuarterSun2 Centre 7 Bearing 157.15956349259 Elevation 17.3811788579182 lat/lon 52.9916666666667,-6.61666666666667</name>
+</wpt>
+<!--Waypoints 9-->
+<wpt lat="52.9916666666667" lon="-6.61666666666667">
+<name>CrossQuarterSun2 Bottom 8 Bearing 157.017843059325 Elevation 17.0728262640035 lat/lon 52.9916666666667,-6.61666666666667</name>
+</wpt>
+<!--Waypoints 10-->
+<wpt lat="52.9919444444444" lon="-6.61666666666667">
+<name>CrossQuarterSun2 Bottom 9 Bearing 156.115802017157 Elevation 16.8501364803811 lat/lon 52.9919444444444,-6.61666666666667</name>
+</wpt>
+<!--Waypoints 11-->
+<wpt lat="52.9919444444444" lon="-6.61666666666667">
+<name>CrossQuarterSun2 Centre 10 Bearing 155.593622870541 Elevation 16.9924649769983 lat/lon 52.9919444444444,-6.61666666666667</name>
+</wpt>
+<!--Waypoints 12-->
+<wpt lat="52.9919444444444" lon="-6.61666666666667">
+<name>CrossQuarterSun2 Top 11 Bearing 155.101878183323 Elevation 17.1405500438785 lat/lon 52.9919444444444,-6.61666666666667</name>
+</wpt>
+<!--Waypoints 13-->
+<wpt lat="52.9919444444444" lon="-6.6175">
+<name>CrossQuarterSun2 Centre 12 Bearing 186.635006139461 Elevation 19.8664627477914 lat/lon 52.9919444444444,-6.6175</name>
+</wpt>
+<!--Waypoints 14-->
+<wpt lat="52.9919444444444" lon="-6.6175">
+<name>CrossQuarterSun2 Bottom 13 Bearing 186.184654880587 Elevation 19.6295688567878 lat/lon 52.9919444444444,-6.6175</name>
+</wpt>
+</gpx>

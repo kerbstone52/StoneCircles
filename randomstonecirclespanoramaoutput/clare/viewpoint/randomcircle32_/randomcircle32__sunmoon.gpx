@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx>
+<!--Centre Waypoint 52.9335538823 -6.7772343251-->
+<wpt lat="52.9335538823" lon="-6.7772343251">
+<name>randomcircle32 lat/lon 52.9335538823,-6.7772343251</name>
+</wpt>
+<!--Waypoints 1-->
+<wpt lat="52.9338888888889" lon="-6.77611111111111">
+<name>MoonPlusEPlusI Bottom 0 Bearing 67.7591203904796 Elevation 18.7688973972639 lat/lon 52.9338888888889,-6.77611111111111</name>
+</wpt>
+<!--Waypoints 2-->
+<wpt lat="52.9338888888889" lon="-6.77611111111111">
+<name>MoonPlusEPlusI Bottom 1 Bearing 67.7471764517364 Elevation 18.7595731076995 lat/lon 52.9338888888889,-6.77611111111111</name>
+</wpt>
+<!--Waypoints 3-->
+<wpt lat="52.9338888888889" lon="-6.77611111111111">
+<name>MoonPlusEPlusI Bottom 2 Bearing 67.7471764517364 Elevation 18.7595731076995 lat/lon 52.9338888888889,-6.77611111111111</name>
+</wpt>
+<!--Waypoints 4-->
+<wpt lat="52.9338888888889" lon="-6.77611111111111">
+<name>MoonPlusEPlusI Centre 3 Bearing 66.7732778442243 Elevation 18.3375946242623 lat/lon 52.9338888888889,-6.77611111111111</name>
+</wpt>
+<!--Waypoints 5-->
+<wpt lat="52.9338888888889" lon="-6.77611111111111">
+<name>MoonPlusEPlusI Centre 4 Bearing 66.7613572655511 Elevation 18.3283395079444 lat/lon 52.9338888888889,-6.77611111111111</name>
+</wpt>
+<!--Waypoints 6-->
+<wpt lat="52.9338888888889" lon="-6.77611111111111">
+<name>MoonPlusEPlusI Centre 5 Bearing 66.7613572655511 Elevation 18.3283395079444 lat/lon 52.9338888888889,-6.77611111111111</name>
+</wpt>
+<!--Waypoints 7-->
+<wpt lat="52.9338888888889" lon="-6.77611111111111">
+<name>MoonPlusEPlusI Centre 6 Bearing 66.7494366389342 Elevation 18.3190852658444 lat/lon 52.9338888888889,-6.77611111111111</name>
+</wpt>
+<!--Waypoints 8-->
+<wpt lat="52.9338888888889" lon="-6.77611111111111">
+<name>MoonPlusEPlusI Centre 7 Bearing 66.7494366389342 Elevation 18.3190852658444 lat/lon 52.9338888888889,-6.77611111111111</name>
+</wpt>
+<!--Waypoints 9-->
+<wpt lat="52.9338888888889" lon="-6.77611111111111">
+<name>MoonPlusEPlusI Top 8 Bearing 65.7485804083568 Elevation 17.8795513291156 lat/lon 52.9338888888889,-6.77611111111111</name>
+</wpt>
+</gpx>

@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx>
+<!--Centre Waypoint 52.9310983327 -6.7172596496-->
+<wpt lat="52.9310983327" lon="-6.7172596496">
+<name>randomcircle59 lat/lon 52.9310983327,-6.7172596496</name>
+</wpt>
+<!--Waypoints 1-->
+<wpt lat="52.7486111111111" lon="-6.38916666666667">
+<name>WinterSolsticeSun Bottom 0 Bearing 132.533852576415 Elevation 0.286318706585367 lat/lon 52.7486111111111,-6.38916666666667</name>
+</wpt>
+<!--Waypoints 2-->
+<wpt lat="52.7502777777778" lon="-6.38611111111111">
+<name>WinterSolsticeSun Centre 1 Bearing 132.018628642205 Elevation 0.300767965062752 lat/lon 52.7502777777778,-6.38611111111111</name>
+</wpt>
+<!--Waypoints 3-->
+<wpt lat="52.7494444444444" lon="-6.38">
+<name>WinterSolsticeSun Top 2 Bearing 131.602146648727 Elevation 0.361096284958723 lat/lon 52.7494444444444,-6.38</name>
+</wpt>
+<!--Waypoints 4-->
+<wpt lat="52.7505555555556" lon="-7.05888888888889">
+<name>WinterSolsticeSun Top 3 Bearing 228.941699366428 Elevation 0.101029975776246 lat/lon 52.7505555555556,-7.05888888888889</name>
+</wpt>
+<!--Waypoints 5-->
+<wpt lat="52.7305555555556" lon="-7.08888888888889">
+<name>WinterSolsticeSun Centre 4 Bearing 228.365946938134 Elevation 0.118475248216874 lat/lon 52.7305555555556,-7.08888888888889</name>
+</wpt>
+<!--Waypoints 6-->
+<wpt lat="52.7322222222222" lon="-7.07888888888889">
+<name>WinterSolsticeSun Bottom 5 Bearing 227.804288912359 Elevation 0.127411312002158 lat/lon 52.7322222222222,-7.07888888888889</name>
+</wpt>
+<!--Waypoints 7-->
+<wpt lat="52.9466666666667" lon="-6.6825">
+<name>SummerSolsticeSun Bottom 6 Bearing 54.0328134084019 Elevation 3.70887003369498 lat/lon 52.9466666666667,-6.6825</name>
+</wpt>
+<!--Waypoints 8-->
+<wpt lat="52.9466666666667" lon="-6.6825">
+<name>SummerSolsticeSun Centre 7 Bearing 53.6320135660374 Elevation 3.7700820135326 lat/lon 52.9466666666667,-6.6825</name>
+</wpt>
+<!--Waypoints 9-->
+<wpt lat="52.9466666666667" lon="-6.68277777777778">
+<name>SummerSolsticeSun Top 8 Bearing 53.2383032456747 Elevation 3.83628599985674 lat/lon 52.9466666666667,-6.68277777777778</name>
+</wpt>
+<!--Waypoints 10-->
+<wpt lat="52.9463888888889" lon="-6.74777777777778">
+<name>SummerSolsticeSun Top 9 Bearing 309.445034956283 Elevation 2.28394401509189 lat/lon 52.9463888888889,-6.74777777777778</name>
+</wpt>
+<!--Waypoints 11-->
+<wpt lat="52.9461111111111" lon="-6.74805555555556">
+<name>SummerSolsticeSun Centre 10 Bearing 308.805022419431 Elevation 2.35039132146923 lat/lon 52.9461111111111,-6.74805555555556</name>
+</wpt>
+<!--Waypoints 12-->
+<wpt lat="52.9455555555556" lon="-6.7475">
+<name>SummerSolsticeSun Bottom 11 Bearing 308.196905822352 Elevation 2.40151735582969 lat/lon 52.9455555555556,-6.7475</name>
+</wpt>
+<!--Waypoints 13-->
+<wpt lat="52.9266666666667" lon="-6.37333333333333">
+<name>EquinoxSun Bottom 12 Bearing 91.1249334818176 Elevation 0.926919740481996 lat/lon 52.9266666666667,-6.37333333333333</name>
+</wpt>
+<!--Waypoints 14-->
+<wpt lat="52.9286111111111" lon="-6.39611111111111">
+<name>EquinoxSun Centre 13 Bearing 90.6183948931265 Elevation 0.884398890576768 lat/lon 52.9286111111111,-6.39611111111111</name>
+</wpt>
+<!--Waypoints 15-->
+<wpt lat="52.93" lon="-6.39444444444444">
+<name>EquinoxSun Top 14 Bearing 90.2049544723493 Elevation 0.903663464743617 lat/lon 52.93,-6.39444444444444</name>
+</wpt>
+<!--Waypoints 16-->
+<wpt lat="52.9308333333333" lon="-6.77638888888889">
+<name>EquinoxSun Top 15 Bearing 269.336214803656 Elevation 1.21117656659603 lat/lon 52.9308333333333,-6.77638888888889</name>
+</wpt>
+<!--Waypoints 17-->
+<wpt lat="52.9305555555556" lon="-6.77666666666667">
+<name>EquinoxSun Centre 16 Bearing 268.842938995995 Elevation 1.24550088684338 lat/lon 52.9305555555556,-6.77666666666667</name>
+</wpt>
+<!--Waypoints 18-->
+<wpt lat="52.93" lon="-6.77666666666667">
+<name>EquinoxSun Bottom 17 Bearing 268.156748140441 Elevation 1.41107156452821 lat/lon 52.93,-6.77666666666667</name>
+</wpt>
+<!--Waypoints 19-->
+<wpt lat="52.7822222222222" lon="-6.555">
+<name>MoonMinusEMinusI Bottom 18 Bearing 146.612464814193 Elevation 0.443849133610649 lat/lon 52.7822222222222,-6.555</name>
+</wpt>
+<!--Waypoints 20-->
+<wpt lat="52.8016666666667" lon="-6.57277777777778">
+<name>MoonMinusEMinusI Centre 19 Bearing 146.002789530336 Elevation 0.467210573077681 lat/lon 52.8016666666667,-6.57277777777778</name>
+</wpt>
+<!--Waypoints 21-->
+<wpt lat="52.8033333333333" lon="-6.57111111111111">
+<name>MoonMinusEMinusI Top 20 Bearing 145.358095417336 Elevation 0.475051191482622 lat/lon 52.8033333333333,-6.57111111111111</name>
+</wpt>
+<!--Waypoints 22-->
+<wpt lat="52.8033333333333" lon="-6.57111111111111">
+<name>MoonMinusEMinusI Top 21 Bearing 145.337945156223 Elevation 0.467731164148597 lat/lon 52.8033333333333,-6.57111111111111</name>
+</wpt>
+<!--Waypoints 23-->
+<wpt lat="52.8041666666667" lon="-6.57194444444444">
+<name>MoonMinusEMinusI Top 22 Bearing 145.337945156223 Elevation 0.467731164148597 lat/lon 52.8041666666667,-6.57194444444444</name>
+</wpt>
+<!--Waypoints 24-->
+<wpt lat="52.2430555555556" lon="-7.53055555555556">
+<name>MoonMinusEMinusI Top 23 Bearing 215.987761975983 Elevation -0.0159641936586793 lat/lon 52.2430555555556,-7.53055555555556</name>
+</wpt>
+<!--Waypoints 25-->
+<wpt lat="52.2377777777778" lon="-7.52305555555556">
+<name>MoonMinusEMinusI Centre 24 Bearing 215.529886936275 Elevation -0.083524204139796 lat/lon 52.2377777777778,-7.52305555555556</name>
+</wpt>
+<!--Waypoints 26-->
+<wpt lat="52.4022222222222" lon="-7.32527777777778">
+<name>MoonMinusEMinusI Bottom 25 Bearing 215.106529959159 Elevation -0.164706926395175 lat/lon 52.4022222222222,-7.32527777777778</name>
+</wpt>
+<!--Waypoints 27-->
+<wpt lat="52.8286111111111" lon="-6.47138888888889">
+<name>MoonMinusEPlusI Bottom 26 Bearing 124.604123525594 Elevation 0.601670773467882 lat/lon 52.8286111111111,-6.47138888888889</name>
+</wpt>
+<!--Waypoints 28-->
+<wpt lat="52.8305555555556" lon="-6.47111111111111">
+<name>MoonMinusEPlusI Centre 27 Bearing 124.065687970101 Elevation 0.57693841311103 lat/lon 52.8305555555556,-6.47111111111111</name>
+</wpt>
+<!--Waypoints 29-->
+<wpt lat="52.8316666666667" lon="-6.47">
+<name>MoonMinusEPlusI Top 28 Bearing 123.607130553245 Elevation 0.593742049518207 lat/lon 52.8316666666667,-6.47</name>
+</wpt>
+<!--Waypoints 30-->
+<wpt lat="52.8138888888889" lon="-7.01444444444444">
+<name>MoonMinusEPlusI Top 29 Bearing 236.941691689977 Elevation 0.300226809476994 lat/lon 52.8138888888889,-7.01444444444444</name>
+</wpt>
+<!--Waypoints 31-->
+<wpt lat="52.8136111111111" lon="-7.00972222222222">
+<name>MoonMinusEPlusI Centre 30 Bearing 236.436310555227 Elevation 0.310038996399387 lat/lon 52.8136111111111,-7.00972222222222</name>
+</wpt>
+<!--Waypoints 32-->
+<wpt lat="52.8116666666667" lon="-7.00944444444444">
+<name>MoonMinusEPlusI Bottom 31 Bearing 235.978265450687 Elevation 0.29379107879842 lat/lon 52.8116666666667,-7.00944444444444</name>
+</wpt>
+<!--Waypoints 33-->
+<wpt lat="52.9444444444444" lon="-6.675">
+<name>MoonPlusEMinusI Bottom 32 Bearing 62.3846954230995 Elevation 2.17823631174069 lat/lon 52.9444444444444,-6.675</name>
+</wpt>
+<!--Waypoints 34-->
+<wpt lat="52.9444444444444" lon="-6.67555555555556">
+<name>MoonPlusEMinusI Centre 33 Bearing 62.0362625132067 Elevation 2.24940302559922 lat/lon 52.9444444444444,-6.67555555555556</name>
+</wpt>
+<!--Waypoints 35-->
+<wpt lat="52.9447222222222" lon="-6.67611111111111">
+<name>MoonPlusEMinusI Top 34 Bearing 61.6555797340486 Elevation 2.30059435758922 lat/lon 52.9447222222222,-6.67611111111111</name>
+</wpt>
+<!--Waypoints 36-->
+<wpt lat="52.9413888888889" lon="-6.74833333333333">
+<name>MoonPlusEMinusI Top 35 Bearing 298.644766991191 Elevation 2.1110582941182 lat/lon 52.9413888888889,-6.74833333333333</name>
+</wpt>
+<!--Waypoints 37-->
+<wpt lat="52.9413888888889" lon="-6.74833333333333">
+<name>MoonPlusEMinusI Centre 36 Bearing 298.303479866338 Elevation 2.03484646039283 lat/lon 52.9413888888889,-6.74833333333333</name>
+</wpt>
+<!--Waypoints 38-->
+<wpt lat="52.9413888888889" lon="-6.74888888888889">
+<name>MoonPlusEMinusI Bottom 37 Bearing 297.948736670964 Elevation 1.96759395910267 lat/lon 52.9413888888889,-6.74888888888889</name>
+</wpt>
+<!--Waypoints 39-->
+<wpt lat="52.9488888888889" lon="-6.68722222222222">
+<name>MoonPlusEPlusI Bottom 38 Bearing 45.734446669552 Elevation 3.81076734112098 lat/lon 52.9488888888889,-6.68722222222222</name>
+</wpt>
+<!--Waypoints 40-->
+<wpt lat="52.9488888888889" lon="-6.68777777777778">
+<name>MoonPlusEPlusI Centre 39 Bearing 45.1737761631362 Elevation 3.79350854525489 lat/lon 52.9488888888889,-6.68777777777778</name>
+</wpt>
+<!--Waypoints 41-->
+<wpt lat="52.9491666666667" lon="-6.68777777777778">
+<name>MoonPlusEPlusI Top 40 Bearing 44.6587028320053 Elevation 3.80283770726313 lat/lon 52.9491666666667,-6.68777777777778</name>
+</wpt>
+<!--Waypoints 42-->
+<wpt lat="52.9452777777778" lon="-6.73666666666667">
+<name>MoonPlusEPlusI Top 41 Bearing 320.437434089242 Elevation 1.30218738454641 lat/lon 52.9452777777778,-6.73666666666667</name>
+</wpt>
+<!--Waypoints 43-->
+<wpt lat="52.9452777777778" lon="-6.73666666666667">
+<name>MoonPlusEPlusI Top 42 Bearing 320.430912188504 Elevation 1.30506686059977 lat/lon 52.9452777777778,-6.73666666666667</name>
+</wpt>
+<!--Waypoints 44-->
+<wpt lat="52.9452777777778" lon="-6.73666666666667">
+<name>MoonPlusEPlusI Top 43 Bearing 320.417869000484 Elevation 1.31082828930775 lat/lon 52.9452777777778,-6.73666666666667</name>
+</wpt>
+<!--Waypoints 45-->
+<wpt lat="52.9452777777778" lon="-6.73694444444444">
+<name>MoonPlusEPlusI Centre 44 Bearing 319.76180789199 Elevation 1.34272099928404 lat/lon 52.9452777777778,-6.73694444444444</name>
+</wpt>
+<!--Waypoints 46-->
+<wpt lat="52.9452777777778" lon="-6.7375">
+<name>MoonPlusEPlusI Bottom 45 Bearing 319.091538574346 Elevation 1.3844756687657 lat/lon 52.9452777777778,-6.7375</name>
+</wpt>
+<!--Waypoints 47-->
+<wpt lat="52.9441666666667" lon="-6.67361111111111">
+<name>CrossQuarterSun1 Bottom 46 Bearing 63.8828385456632 Elevation 1.88414443295961 lat/lon 52.9441666666667,-6.67361111111111</name>
+</wpt>
+<!--Waypoints 48-->
+<wpt lat="52.9444444444444" lon="-6.67388888888889">
+<name>CrossQuarterSun1 Centre 47 Bearing 63.5016928281681 Elevation 1.94190189206802 lat/lon 52.9444444444444,-6.67388888888889</name>
+</wpt>
+<!--Waypoints 49-->
+<wpt lat="52.9444444444444" lon="-6.67388888888889">
+<name>CrossQuarterSun1 Top 48 Bearing 63.1472696288127 Elevation 2.01705141553658 lat/lon 52.9444444444444,-6.67388888888889</name>
+</wpt>
+<!--Waypoints 50-->
+<wpt lat="52.9411111111111" lon="-6.74888888888889">
+<name>CrossQuarterSun1 Top 49 Bearing 297.168814072368 Elevation 1.81862996903822 lat/lon 52.9411111111111,-6.74888888888889</name>
+</wpt>
+<!--Waypoints 51-->
+<wpt lat="52.9408333333333" lon="-6.74888888888889">
+<name>CrossQuarterSun1 Centre 50 Bearing 296.814582320593 Elevation 1.74340929660701 lat/lon 52.9408333333333,-6.74888888888889</name>
+</wpt>
+<!--Waypoints 52-->
+<wpt lat="52.9405555555556" lon="-6.74805555555556">
+<name>CrossQuarterSun1 Bottom 51 Bearing 296.44678492601 Elevation 1.67720076451401 lat/lon 52.9405555555556,-6.74805555555556</name>
+</wpt>
+<!--Waypoints 53-->
+<wpt lat="52.795" lon="-6.32444444444444">
+<name>CrossQuarterSun2 Bottom 52 Bearing 119.738478249467 Elevation 0.659413338373524 lat/lon 52.795,-6.32444444444444</name>
+</wpt>
+<!--Waypoints 54-->
+<wpt lat="52.7975" lon="-6.32361111111111">
+<name>CrossQuarterSun2 Centre 53 Bearing 119.225889791642 Elevation 0.644210294119689 lat/lon 52.7975,-6.32361111111111</name>
+</wpt>
+<!--Waypoints 55-->
+<wpt lat="52.7977777777778" lon="-6.31555555555556">
+<name>CrossQuarterSun2 Top 54 Bearing 118.652924515793 Elevation 0.59348233681886 lat/lon 52.7977777777778,-6.31555555555556</name>
+</wpt>
+<!--Waypoints 56-->
+<wpt lat="52.8216666666667" lon="-7.05611111111111">
+<name>CrossQuarterSun2 Top 55 Bearing 241.938625261038 Elevation 0.258498585167728 lat/lon 52.8216666666667,-7.05611111111111</name>
+</wpt>
+<!--Waypoints 57-->
+<wpt lat="52.8333333333333" lon="-7.01388888888889">
+<name>CrossQuarterSun2 Centre 56 Bearing 241.412363131323 Elevation 0.283840977840789 lat/lon 52.8333333333333,-7.01388888888889</name>
+</wpt>
+<!--Waypoints 58-->
+<wpt lat="52.8319444444444" lon="-7.01194444444444">
+<name>CrossQuarterSun2 Bottom 57 Bearing 240.926409983959 Elevation 0.285633378795002 lat/lon 52.8319444444444,-7.01194444444444</name>
+</wpt>
+</gpx>
